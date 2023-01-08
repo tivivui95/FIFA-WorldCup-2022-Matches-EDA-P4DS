@@ -9,4 +9,4 @@
 2. Dương Minh Tùng - 20127380 - Github: [minhtungduong](https://github.com/minhtungduong)
 # Info about our Repository
 1. **Fifa_world_cup_matches.csv**: Our dataset to do this project 
-2. **EDA.ipynb**: our notebook for the Final test
+2. **20127380.ipynb**: our notebook for the Final test
